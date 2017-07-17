@@ -5,4 +5,3 @@ def hello(subj='world'):
 if __name__ == '__main__':
     hello()
     hello('Moscow')
-    hello('Leningrad')
